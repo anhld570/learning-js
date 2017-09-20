@@ -7,3 +7,7 @@ node_modules
 # temporary files
 *.tmp
 *~
+
+# ES5 code
+dist
+publi/dist
